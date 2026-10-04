@@ -75,7 +75,7 @@ Java 코드(`src/main/java`)는 오늘 건드리지 않습니다. 숙제에서 �
 > STEP 5에서 Render 배포가 끝나면 채웁니다.
 
 -
-
+https://study-api-v2.onrender.com/studies
 ---
 
 ## 에러 노트
